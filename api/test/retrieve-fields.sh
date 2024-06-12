@@ -1,0 +1,1 @@
+curl -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NjJjYTBmYTkwZDA0Y2ZmM2JmYmZhYmUiLCJyb2xlIjoibWFuYWdlciIsImlhdCI6MTcxNDIwMTU4NywiZXhwIjoxNzE0MjA1MTg3fQ.Ig3HZq0Qt1SIkCIkHMQoI4hKLBY0thYx6Q_dIZ4uEtE" http://localhost:8080/fields/targetuser -v

@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"fullname":"Poro to", "email":"poro@to.com", "password":"123qwe123"}' http://localhost:8080/manager -v

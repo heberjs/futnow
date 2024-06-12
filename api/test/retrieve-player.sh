@@ -1,0 +1,1 @@
+curl -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NjNiNWM1ZDk1YjE0MzcxMzY5Y2JkMzUiLCJyb2xlIjoicGxheWVyIiwiaWF0IjoxNzE1MTgzMjgzLCJleHAiOjE3MTUxODY4ODN9.eZdDsDEAVqZxFyWJDrFghhE5DhfWO-jOcOheZqRv3W0" http://localhost:8080/players/663b5c5d95b14371369cbd35 -v

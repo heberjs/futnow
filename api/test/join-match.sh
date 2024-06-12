@@ -1,0 +1,1 @@
+curl -X PUT -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NjM4ZjJmNDI2ZTJjYTFjNWYzNTVhNzUiLCJyb2xlIjoicGxheWVyIiwiaWF0IjoxNzE1MDI1MDE5LCJleHAiOjE3MTUwMjg2MTl9.GgWApxe97W9FaMJpaJEMKU_SaVvbiihHERayeIW2KJM" -d  "http://localhost:8080/matches/join/6638f2f526e2ca1c5f355a89" -v
