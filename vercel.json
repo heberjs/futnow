@@ -1,5 +1,5 @@
 {
-    "buildCommand": "cd app && npm install --force && cd ../api && npm install --force && cd ../app && npm run build",
+    "buildCommand": "cd app && npm install --legacy-peer-deps && cd ../api && npm install --legacy-peer-deps && cd ../app && npm run build",
     "outputDirectory": "app/dist",
     "framework": "vite",
     "rewrites": [
