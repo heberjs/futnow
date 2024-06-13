@@ -85,7 +85,7 @@ function CreateMatch({ onCancelClick, onMatchCreated }) {
 
                 <div className='flex flex-col mb-4'>
                     <label htmlFor="date" className='text-white'>Date time</label>
-                    <input type="datetime-local" id="date" min="2024-04-30T00:00" min={minDate} max="2024-12-31T23:59" className='rounded-lg px-2 py-1' />
+                    <input type="datetime-local" id="date" min={minDate} max="2024-12-31T23:59" className='rounded-lg px-2 py-1' />
                 </div>
 
                 <div className='flex flex-col mb-4'>
