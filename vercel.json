@@ -1,5 +1,5 @@
 {
-    "buildCommand": "cd app && npm install --force && cd ../api && yarn install --force && ./node_modules/vite/bin/vite.js build",
+    "buildCommand": "cd app && npm install --force && cd ../api && npm install --force && ./node_modules/vite/bin/vite.js build",
     "outputDirectory": "app/dist",
     "framework": "vite",
     "rewrites": [
